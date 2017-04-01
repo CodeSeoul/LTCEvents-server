@@ -3,5 +3,5 @@ language: java
 jdk:
  - oraclejdk8
 
-script: mvn clean verify
+script: ./mvnw clean verify
 
